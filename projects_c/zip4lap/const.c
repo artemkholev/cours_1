@@ -1,0 +1,9 @@
+#define SYMBOL_ARRAY_SIZE 256
+#define BIT8 8
+#define CODE_SIZE 8
+#define COUNT_TAIL_BYTES  1
+#define COUNT_ENCODING_BYTES 1
+#define COUNT_DICTIONARY_BYTES 2
+#define NAME_SIZE 64
+#define LEFT_BRANCH 0
+#define RIGHT_BRANCH 1
