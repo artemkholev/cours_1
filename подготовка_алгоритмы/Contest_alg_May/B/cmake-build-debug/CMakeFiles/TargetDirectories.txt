@@ -1,0 +1,3 @@
+/home/artem-kholev/Desktop/Contest_alg/B/cmake-build-debug/CMakeFiles/B.dir
+/home/artem-kholev/Desktop/Contest_alg/B/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/artem-kholev/Desktop/Contest_alg/B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
