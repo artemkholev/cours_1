@@ -1,0 +1,2 @@
+Bavaria 10 80
+Liverpool 10 80
